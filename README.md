@@ -28,6 +28,10 @@ contact data into separate files by area code and postcode. The source code is p
 |---|---|
 | ![Columns](docs/columns.png) | ![Output options](docs/output-options.png) |
 
+| Review all files: every file grouped by layout, problems flagged |
+|---|
+| ![Review all files](docs/review.png) |
+
 | Summary after a run | Dark theme |
 |---|---|
 | ![Summary](docs/summary-light.png) | ![Dark theme](docs/summary-dark.png) |
@@ -42,3 +46,8 @@ and upgrades the app in place.
 ## Permission required
 AZ Data Organizer is proprietary software. You may install and use it only with permission from
 **Art Midnight**. See [LICENSE.txt](LICENSE.txt).
+
+## Contact and support
+Questions, permission to use the app, or support: **[devartmidnight@gmail.com](mailto:devartmidnight@gmail.com)**
+
+Want a **custom app or automation** for your business or personal use? Email the same address and tell me what you need.

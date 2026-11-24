@@ -39,4 +39,5 @@ PLEASE READ THIS LICENCE BEFORE INSTALLING. BY INSTALLING OR USING THE SOFTWARE 
    Art Midnight may withdraw permission at any time. When permission ends you must stop using the
    Software and delete every copy.
 
-To ask for permission, contact Art Midnight.
+To ask for permission, or for support, contact Art Midnight at devartmidnight@gmail.com.
+For a custom app or automation for your business or personal use, email the same address.
