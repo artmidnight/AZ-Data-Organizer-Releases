@@ -43,6 +43,15 @@ Installed copies check this repository when they start. When there is a newer re
 **Update now** / **Update later**. Update now downloads the installer, checks its SHA-256 checksum,
 and upgrades the app in place.
 
+## Getting a licence
+The app needs a licence key from Art Midnight.
+1. Install the app and open it. It shows your computer's **Machine ID** (for example `7F3A-91C2-55D0-1B8E`).
+2. Email the Machine ID to **devartmidnight@gmail.com** (the *Email it* button does this for you).
+3. Paste the licence key you get back and click **Activate**.
+
+One licence can cover several computers (seats). The app reminds you before a licence ends, keeps
+working for a short grace period after it ends, and then asks for a renewed key.
+
 ## Permission required
 AZ Data Organizer is proprietary software. You may install and use it only with permission from
 **Art Midnight**. See [LICENSE.txt](LICENSE.txt).
