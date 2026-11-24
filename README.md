@@ -56,6 +56,29 @@ working for a short grace period after it ends, and then asks for a renewed key.
 AZ Data Organizer is proprietary software. You may install and use it only with permission from
 **Art Midnight**. See [LICENSE.txt](LICENSE.txt).
 
+## Support the developer
+AZ Data Organizer is made by **Art Midnight**. If it saves you time, a tip keeps updates coming. Thank you!
+
+☕ **[Buy me a coffee](https://buymeacoffee.com/artmidnight)**
+
+The same QR codes are in the app: click **☕ Support** at the top of the window (or **About → Support the developer**),
+with a **Save QR image** button.
+
+<table>
+  <tr>
+    <td align="center"><a href="https://buymeacoffee.com/artmidnight"><img src="docs/support/buymeacoffee.png" alt="Buy Me a Coffee QR code" width="170" /></a><br /><b>Buy Me a Coffee</b></td>
+    <td align="center"><img src="docs/support/gcash.png" alt="GCash QR code" width="170" /><br /><b>GCash</b></td>
+    <td align="center"><img src="docs/support/gotyme.png" alt="GoTyme Bank QR code" width="170" /><br /><b>GoTyme Bank</b></td>
+    <td align="center"><img src="docs/support/paypal.png" alt="PayPal QR code" width="170" /><br /><b>PayPal</b></td>
+    <td align="center"><img src="docs/support/usdt.png" alt="USDT TRC20 QR code" width="170" /><br /><b>USDT (TRON, TRC20)</b></td>
+  </tr>
+</table>
+
+USDT address (TRON network, TRC20 only): `TLU6HakguhCEtb7dpkzppDinqnMR8NPKFs`
+Send only USDT on the TRON (TRC20) network. Other coins or networks will be lost.
+
+Only use these QR codes from the app or this page.
+
 ## Contact and support
 Questions, permission to use the app, or support: **[devartmidnight@gmail.com](mailto:devartmidnight@gmail.com)**
 
